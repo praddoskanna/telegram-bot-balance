@@ -1,0 +1,6 @@
+pyTelegramBotAPI==4.10.0
+web3==6.3.0
+
+# You can install these packages by running:
+
+# pip install -r requirements.txt
